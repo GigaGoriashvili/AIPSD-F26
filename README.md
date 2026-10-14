@@ -9,7 +9,7 @@ You are training to be an operator: an engineer who directs AI with specificatio
 
 ## How this course runs
 
-- **Lectures are recorded** and released at least 48 hours before your lab. Weeks 1 and 2 were delivered in person (recordings posted).
+- **Lectures are live and recorded** Weeks 1 and 2 were delivered in person (recordings posted).
 - **Labs are live online**, weekly from Week 2, in two groups. We code live, break things live, and build your capstone. Links and times are posted on Teams.
 - **Before each lab** (from Week 3): a 3-question watch-check on the recording. Two minutes, auto-graded, best 8 of 10 count.
 - **Weeks 8 and 9**: on-campus midterm period, no classes. One exam, and protected capstone build time.
