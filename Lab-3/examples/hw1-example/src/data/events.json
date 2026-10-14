@@ -1,0 +1,14 @@
+{
+  "updated": "2026-10-01",
+  "events": [
+    {"club": "Robotics Club", "title": "Open Build Night", "date": "2026-10-22", "time": "18:00", "room": "B204"},
+    {"club": "Robotics Club", "title": "Soldering 101", "date": "2026-10-29", "time": "17:00", "room": "B204"},
+    {"club": "Robotics Club", "title": "Robot Sumo", "date": "2026-11-12", "time": "16:00", "room": "Atrium"},
+    {"club": "Robotics Club", "title": "End of Term Showcase", "date": "2026-12-10", "time": "18:00", "room": "Atrium"},
+    {"club": "Robotics Club", "title": "Welcome Session", "date": "2026-09-24", "time": "18:00", "room": "B204"},
+    {"club": "Chess Club", "title": "Autumn Blitz", "date": "2026-09-30", "time": "19:00", "room": "C110"},
+    {"club": "Rowing Club", "title": "Erg Challenge", "date": "2026-10-20", "time": "07:00", "room": "Gym"},
+    {"club": "Rowing Club", "title": "River Day", "date": "2026-10-20", "time": "06:30", "room": "Boathouse"},
+    {"club": "Radio Club", "title": "Antenna Workshop", "date": "2026-10-25", "time": "15:00", "room": "A012"}
+  ]
+}

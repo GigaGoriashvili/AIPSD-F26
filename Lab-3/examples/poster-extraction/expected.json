@@ -1,0 +1,9 @@
+{
+  "today": "2026-10-05",
+  "posters": {
+    "clean.png":        {"route": "accepted", "hard": []},
+    "torn.png":         {"route": "review",   "hard": ["date"]},
+    "ambiguous.png":    {"route": "confirm",  "hard": []},
+    "not-an-event.png": {"route": "rejected", "hard": []}
+  }
+}
